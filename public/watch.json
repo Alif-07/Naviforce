@@ -1,0 +1,102 @@
+[
+	{
+		"id": 1,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9183",
+		"WaterResistant": "3ATM",
+		"Weight": "173Gram",
+		"Desc": "NAVIFORCE 9183 Multi Function Quartz Watch Male Date Japan Movement Wristwatch",
+		"Price": "$199",
+		"url": "https://i.ibb.co/54Y1cFC/NF9183.jpg"
+	},
+	{
+		"id": 2,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9186",
+		"WaterResistant": "3ATM",
+		"Weight": "152g",
+		"Desc": "NAVIFORCE 9183 Multi Function Quartz Watch Male Date Japan Movement Wristwatch",
+		"Price": "$229",
+		"url": "https://i.ibb.co/ZVxw8B7/NF9184.jpg"
+	},
+	{
+		"id": 3,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9186",
+		"WaterResistant": "3ATM",
+		"Weight": "152g",
+		"CaseDiameter:": "45MM",
+		"Price": "$99",
+		"url": "https://i.ibb.co/1245fyF/NF9177.jpg"
+	},
+	{
+		"id": 4,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9175",
+		"WaterResistant": "3ATM",
+		"Weight": "175g",
+		"CaseDiameter:": "46.5mm",
+		"Price": "$139",
+		"url": "https://i.ibb.co/LxC8vcZ/NF9175.jpg"
+	},
+	{
+		"id": 5,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9099",
+		"WaterResistant": "3ATM",
+		"Weight": "89g",
+		"CaseDiameter:": "45mm",
+		"Price": "$69",
+		"url": "https://i.ibb.co/vZQ8XfJ/NF9099.jpg"
+	},
+	{
+		"id": 6,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9155A",
+		"WaterResistant": "3ATM",
+		"Weight": "127g",
+		"CaseDiameter:": "46mm",
+		"Price": "$42",
+		"url": "https://i.ibb.co/ZMXfH0T/NF9155A.jpg"
+	},
+	{
+		"id": 7,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9172L",
+		"WaterResistant": "3ATM",
+		"Weight": "100g",
+		"CaseDiameter:": "45mm",
+		"Price": "$99",
+		"url": "https://i.ibb.co/3RbDMjs/NF9172L.jpg"
+	},
+	{
+		"id": 8,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9171",
+		"WaterResistant": "3ATM",
+		"Weight": "187g",
+		"CaseDiameter:": "45mm",
+		"Price": "$99",
+		"url": "https://i.ibb.co/jfN2W2P/NF9171.jpg"
+	},
+	{
+		"id": 9,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9167",
+		"WaterResistant": "3ATM",
+		"Weight": "138Gram",
+		"CaseDiameter:": "47mm",
+		"Price": "$99",
+		"url": "https://i.ibb.co/xgV6Qkj/NF9167.jpg"
+	},
+	{
+		"id": 10,
+		"Brand": "Naviforce",
+		"ModelNumber": "NF9135",
+		"WaterResistant": "3ATM",
+		"Weight": "102g",
+		"CaseDiameter:": "46mm",
+		"Price": "$99",
+		"url": "https://i.ibb.co/Kj5pn0j/NF9135.jpg"
+	}
+]
